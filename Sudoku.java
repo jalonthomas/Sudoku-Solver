@@ -14,7 +14,6 @@ public class Sudoku {
     public static int numRows = 9;
     public static int numCols = 9;
 
-
     public static void main(String[] args) {
         Sudoku sudoku = new Sudoku();
         
